@@ -1,0 +1,1 @@
+/home/volumio/bin/tempcheck.sh
